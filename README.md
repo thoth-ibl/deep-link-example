@@ -1,4 +1,4 @@
-React Native DeepLink Example
+# React Native DeepLink Example
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 
@@ -6,9 +6,9 @@ React Native DeepLink Example
 
 **Step 1:** git clone this repo: https://github.com/thoth-ibl/deep-link-example.git
 
-**Step 2:** cd to the cloned repo: cd ./deep-link-example
+**Step 2:** cd to the cloned repo: `cd ./deep-link-example`
 
-**Step 3:** Install libraries: yarn install
+**Step 3:** Install libraries: `yarn install`
 
 
 
